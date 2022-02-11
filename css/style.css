@@ -1,0 +1,32 @@
+h1{
+    color: rgb(49, 53, 82);
+    
+}
+h3 {
+    display: inline-block;
+    color: 
+    rgb(46, 176, 134)
+    ;
+
+}
+
+.baslik {
+    color: 
+    rgb(184, 64, 94);
+}
+ul {
+display: table;
+margin: 0 auto;    
+}
+ol {
+    display: table;
+    margin: 0 auto;    
+    }
+.resimboyut {
+    height: 300px;
+ 
+}
+
+.iletisim{
+    text-align: left;
+}
